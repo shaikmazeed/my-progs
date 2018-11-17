@@ -6,6 +6,7 @@ public class ArmStrongNumber {
 	{
 
 		findArm(371);
+		System.out.println("hello");
 	
 	}
 	public static void findArm(int n) {
